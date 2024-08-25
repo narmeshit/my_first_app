@@ -1,3 +1,3 @@
-Mi primera aplicación: Sencillo proyecto desarrollado con flutter
+#Mi primera aplicación
 
-A new Flutter project.
+Sencillo proyecto desarrollado con flutter para plataformas Desktops
